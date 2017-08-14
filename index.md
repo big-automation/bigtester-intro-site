@@ -21,10 +21,10 @@ Speed is the most important factor to be success in this competitive market. Teb
 * The following AI features can significantly shorten the scripts development and maintenance cycle in comparison to recording based scripts or pure programming based scripts.
 > 1. Automatically create and maintain the web element locator. AI machine learning make sure all the web element locators will work without testers intervention, in case that developer has changed the UI elements after test scripts created or during the execution.
 > 2. Automatically identify web page without programmed page ID. In traditional testing scripts, an ID (for example, unique page title, or  unique url) needed for this purpose. AI machine learning will automatically recognize it
-> c) AI can automatically find test pattern, generate and maintain the needed testing data for data driven tests in the graphic models.
-4) As stated in 3), scripts and execution results are all modeled in graphic data structure. Machine learning or separate applications can be developed easily on top of those data, which can be used for other business, for example, customer support or sales assistance.
-	a) Build a GUI based and AI powered Help and training/learning system for customer support team or even for and users to understand use cases in the system.
- 	b) Build a feature demo AI robot as a smart assistant of sales team.
+> 3. AI can automatically find test pattern, generate and maintain the needed testing data for data driven tests in the graphic models.
+> 4. As stated in 3, scripts and execution results are all modeled in graphic data structure. Machine learning or separate applications can be developed easily on top of those data, which can be used for other business, for example, customer support or sales assistance.
+	* Build a GUI based and AI powered Help and training/learning system for customer support team or even for and users to understand use cases in the system.
+ 	* Build a feature demo AI robot as a smart assistant of sales team.
 
 
 ### Jekyll Themes
