@@ -12,8 +12,6 @@ Speed is the most important factor to be success in this competitive market. Teb
   
 ### Features
 
-```markdown
-
 #### Cloud and GUI interface based scripting environment. No need to install any dedicated script developing tool kit on workstation before starting the first scripting task.
 
 #### Graph Model based scripting design. This feature is one of the major improvement to overcome the shortcomings of the recording based scripts, which is difficult to re-program and maintain. 
