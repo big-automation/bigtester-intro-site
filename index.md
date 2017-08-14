@@ -12,13 +12,13 @@ Speed is the most important factor to be success in this competitive market. Teb
   
 ### Features
 
-#### Cloud and GUI interface based scripting environment. No need to install any dedicated script developing tool kit on workstation before starting the first scripting task.
+* Cloud and GUI interface based scripting environment. No need to install any dedicated script developing tool kit on workstation before starting the first scripting task.
 
-#### Graph Model based scripting design. This feature is one of the major improvement to overcome the shortcomings of the recording based scripts, which is difficult to re-program and maintain. 
+* Graph Model based scripting design. This feature is one of the major improvement to overcome the shortcomings of the recording based scripts, which is difficult to re-program and maintain. 
 
-### AI machine learning powered. Automation Testers’ programming skills level are significantly lowered since AI in the cloud will automatically generate scripts with minimum input efforts from testers Testers are actually building test case models, instead of scripting or programming all the details. 
+* AI machine learning powered. Automation Testers’ programming skills level are significantly lowered since AI in the cloud will automatically generate scripts with minimum input efforts from testers Testers are actually building test case models, instead of scripting or programming all the details. 
 
-The following AI features can significantly shorten the scripts development and maintenance cycle in comparison to recording based scripts or pure programming based scripts.
+* The following AI features can significantly shorten the scripts development and maintenance cycle in comparison to recording based scripts or pure programming based scripts.
 > a) Automatically create and maintain the web element locator. AI machine learning make sure all the web element locators will work without testers intervention, in case that developer has changed the UI elements after test scripts created or during the execution.
 > b) Automatically identify web page without programmed page ID. In traditional testing scripts, an ID (for example, unique page title, or  unique url) needed for this purpose. AI machine learning will automatically recognize it
 > c) AI can automatically find test pattern, generate and maintain the needed testing data for data driven tests in the graphic models.
