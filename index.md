@@ -1,12 +1,12 @@
-##A Tool Reflecting the True Value of QA Analyst  
+## A Tool Reflecting the True Value of QA Analyst  
 
 This is a tool helps the automation testers truly focusing on what should be improved in the application under testing. No need to spend time on thinking about how to build a good testing framework or scripts. That has actually undermined the QA's true value. No Setup, no coding, visualize everything.
 
-##An AI Powered Tool that is Adding Value and Enhance the Importance of QA Personnel.  
+## An AI Powered Tool that is Adding Value and Enhance the Importance of QA Personnel.  
 
 Our design philosophy is not to replace tester’s job by integrating AI, but rather to enhance the value and importance of the QA team in the software industry by extending QA tester’s work results to be reused by other teams, for example customer support and possibly sales teams, or even by the end users.
 
-##The Only Automation Tool Catch the Speed of Agile
+## The Only Automation Tool Catch the Speed of Agile
 
 Speed is the most important factor to be success in this competitive market. Tebloud is the only automation tool that meet your agile needs while developing and testing your enterprise web application.
   
