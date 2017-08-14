@@ -10,7 +10,7 @@ Our design philosophy is not to replace tester’s job by integrating AI, but ra
 
 Speed is the most important factor to be success in this competitive market. Tebloud is the only automation tool that meet your agile needs while developing and testing your enterprise web application.
   
-### Features
+### Major Features
 
 * Cloud and GUI interface based scripting environment. No need to install any dedicated script developing tool kit on workstation before starting the first scripting task.
 
@@ -23,13 +23,6 @@ Speed is the most important factor to be success in this competitive market. Teb
 > 2. Automatically identify web page without programmed page ID. In traditional testing scripts, an ID (for example, unique page title, or  unique url) needed for this purpose. AI machine learning will automatically recognize it
 > 3. AI can automatically find test pattern, generate and maintain the needed testing data for data driven tests in the graphic models.
 > 4. As stated in 3, scripts and execution results are all modeled in graphic data structure. Machine learning or separate applications can be developed easily on top of those data, which can be used for other business, for example, customer support or sales assistance.
-	* Build a GUI based and AI powered Help and training/learning system for customer support team or even for and users to understand use cases in the system.
- 	* Build a feature demo AI robot as a smart assistant of sales team.
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peidong-hu/bigtester-intro-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
