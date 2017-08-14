@@ -24,6 +24,6 @@ Speed is the most important factor to be success in this competitive market. Teb
 > 3. AI can automatically find test pattern, generate and maintain the needed testing data for data driven tests in the graphic models.
 > 4. As stated in 3, scripts and execution results are all modeled in graphic data structure. Machine learning or separate applications can be developed easily on top of those data, which can be used for other business, for example, customer support or sales assistance.
 
-### Support or Contact
+### Request for a trial
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ready to see Appdiff in action? Sign up below or [contact us](mailto:bigtester.prot@gmail.com) to access a live demo.
